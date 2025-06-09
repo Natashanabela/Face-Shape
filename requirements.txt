@@ -1,6 +1,5 @@
-streamlit
-opencv-python-headless
-numpy
-tensorflow
-mtcnn
-pip install --upgrade pip
+streamlit==1.35.0
+opencv-python-headless==4.8.0.76
+numpy==1.26.4
+tensorflow==2.16.1
+mtcnn==0.1.0

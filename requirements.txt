@@ -3,3 +3,4 @@ opencv-python-headless
 numpy
 tensorflow
 mtcnn
+pip install --upgrade pip

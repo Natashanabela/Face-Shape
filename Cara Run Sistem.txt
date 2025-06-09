@@ -1,0 +1,4 @@
+Dimulai dari Dashboard,
+
+bisa di run dengan mengetik ini pada terminal:
+"streamlit run Dashboard.py"
